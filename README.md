@@ -44,8 +44,6 @@ The source code is not included, as the game is intended for future release in t
 
 After a Game Over, simply refresh the page to play again.
 
-What I have in place is a simple backend / server  created using python that stores the player name, score and date that then fowards 
-
-that information to a leaderboard with a maximum of 10 top scores, like oldschool arcades
+What I have in place is a simple backend / server  created using python that stores the player name, score and date that then fowards  that information to a leaderboard with a maximum of 10 top scores, like oldschool arcades.
 
 The game was designed for children and or people who are not used to using computers

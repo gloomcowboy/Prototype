@@ -28,6 +28,13 @@ The source code is not included, as the game is intended for future release in t
 
 ---
 
+## Controls
+
+- **Pause** — space bar
+- **f1** — debug mode
+
+---
+
 ## Notes
 
 After a Game Over, simply refresh the page to play again.

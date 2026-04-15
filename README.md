@@ -1,13 +1,18 @@
 # PROTOTYPE — Interactive Game
 
 > Built with [KAPLAY]
-> KAPLAY game framework · TypeScript · Vite
+> TypeScript · Vite
 
 ---
 
 ## Play
 
 [Play here] https://gloomcowboy.github.io/Prototype/
+
+
+https://github.com/user-attachments/assets/92dff15e-a092-4806-87e3-5c08de6d1ba7
+
+
 
 ---
 
@@ -28,12 +33,17 @@ The source code is not included, as the game is intended for future release in t
 
 ---
 
+## Controls
+
+- **Pause** — space bar
+- **f1** — debug mode
+
+---
+
 ## Notes
 
 After a Game Over, simply refresh the page to play again.
 
-what I have in place is a simple backend / server  created using python to contain the player name, score and date that then fowards 
+What I have in place is a simple backend / server  created using python that stores the player name, score and date that then fowards  that information to a leaderboard with a maximum of 10 top scores, like oldschool arcades.
 
-that information to a leaderboard with a maximum of 10 top scores, like oldschool arcades
-
-I game was designed for children and or people who are not used to cusing computers
+The game was designed for children and or people who are not used to using computers
